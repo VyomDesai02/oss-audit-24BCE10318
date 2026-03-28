@@ -10,14 +10,15 @@
 ## 📁 Repository Structure
 
 ```
-oss-audit-[rollnumber]/
-│
+oss-audit-24BCE10318/
+├── script shell screenshots
 ├── Script1.sh        # System Identity Report
 ├── Script2.sh        # FOSS Package Inspector
 ├── Script3.sh        # Disk and Permission Auditor
 ├── Script4.sh        # Log File Analyzer
 ├── Script5.sh        # Open Source Manifesto Generator
 └── README.md         # This file
+└── OSS_Audit_Report_24BCE10318
 ```
 
 ---
